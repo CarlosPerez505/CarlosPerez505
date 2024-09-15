@@ -15,7 +15,7 @@ I’m interested in building impactful projects that solve real-world problems, 
 - 🔭 Currently working on **The Red Palm Project**  
 - 🛠️ Languages: JavaScript, SQL  
 - ⚙️ Tools: React, Node.js, Express, MySQL, Docker  
-- 💬 Reach me: [Carlosperez505@gmail.com](mailto:Carlosperez505@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💬 Reach me: [Carlosperez505@gmail.com](mailto:Carlosperez505@gmail.com) | [LinkedIn](https://www.linkedin.com/in/carlos-perez-29b9b6274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 🚀 Projects
 
