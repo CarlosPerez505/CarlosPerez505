@@ -32,7 +32,7 @@ Brief description of another project.
 
 ## 🌱 Currently Learning
 
-- Learning Docker, Kubernetes, and improving my AI/ML skills.
+- Learning Docker, cybersecurity, and improving my AI/ML skills.
 
 ---
 
