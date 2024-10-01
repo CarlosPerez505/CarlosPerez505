@@ -7,16 +7,16 @@ I'm a full-stack developer with a passion for solving real-world problems and bu
 I’m interested in building impactful projects that solve real-world problems, especially in web development and artificial intelligence.  
 🌱 I’m currently learning more about AI integration, Docker, and advanced web development frameworks.  
 💞️ I’m looking to collaborate on open-source projects, particularly those focusing on missing persons, social justice, or community impact.  
-📫 How to reach me: [Carlosperez505@gmail.com](mailto:Carlosperez505@gmail.com) | [LinkedIn](https://www.linkedin.com/in/carlos-perez-29b9b6274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carlos-perez-29b9b6274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
 😄 Pronouns: He/Him 
 ⚡ Fun fact: I an f1 fan, team Redbull. I'm also a life long cowboys fan.
 
 - 🌍 I'm based in USA 
 - 🔭 Currently working on **The Red Palm Project**  
-- 🛠️ Languages: JavaScript, SQL  
-- ⚙️ Tools: React, Node.js, Express, MySQL, Docker  
-- 💬 Reach me: [Carlosperez505@gmail.com](mailto:Carlosperez505@gmail.com) | [LinkedIn](https://www.linkedin.com/in/carlos-perez-29b9b6274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🛠️ Languages: HTML, CSS, JavaScript, SQL  
+- ⚙️ Tools: React, ,Tailwind,Node.js, Express, MySQL, Git, Github, Docker  
+- 💬 Reach me: [LinkedIn](https://www.linkedin.com/in/carlos-perez-29b9b6274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 🚀 Projects
 
