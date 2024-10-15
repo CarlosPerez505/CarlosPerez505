@@ -21,18 +21,19 @@ I’m interested in building impactful projects that solve real-world problems, 
 ## 🚀 Projects
 
 ### 1. **[The Red Palm Project](https://github.com/carlosperez505/redPalmProject)**
-Platform to raise awareness about missing Indigenous people in the Southwest, offering real-time mapping and AI-driven analytics.
+Platform to raise awareness about missing Indigenous people in the Southwest, offering real-time mapping (mapbox) and AI-driven analytics (chatGpt).
 
 ---
 
-### 2. **Other Project**
-Brief description of another project.
+### 2. **Portfolio**
+Public GitHub repository built with JavaScript and Tailwind CSS, Showcases various projects and code snippets of Fullstack tech Im familiar with.
+GitHub Pages
 
 ---
 
 ## 🌱 Currently Learning
 
-- Learning Docker, cybersecurity, and improving my AI/ML skills.
+- Learning Docker, cybersecurity, deno 2 and improving my AI/ML skills.
 
 ---
 
