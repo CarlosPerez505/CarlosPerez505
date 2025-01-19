@@ -16,12 +16,12 @@ I’m interested in building impactful projects that solve real-world problems, 
 - 🔭 Currently working on **The Red Palm Project**  
 - 🛠️ Languages: HTML, CSS, JavaScript, SQL  
 - ⚙️ Tools: React, ,Tailwind,Node.js, Express, MySQL, Git, Github, Docker  
-- 💬 Reach me: [LinkedIn](https://www.linkedin.com/in/carlos-perez-29b9b6274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💬 Reach me: 
 
 ## 🚀 Projects
 
 ### 1. **[The Red Palm Project](https://github.com/carlosperez505/redPalmProject)**
-Platform to raise awareness about missing Indigenous people in the Southwest, offering real-time mapping (mapbox) and AI-driven analytics (chatGpt).
+Platform to raise awareness about missing Indigenous people in the Southwest, offering real-time mapping (mapbox).
 
 ---
 
